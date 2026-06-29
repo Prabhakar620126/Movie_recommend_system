@@ -251,7 +251,7 @@ https://github.com/Prabhakar620126
 
 **LinkedIn**
 
-[(Add your LinkedIn profile here)](https://www.linkedin.com/in/prabhakar-kumar-shahi-b84851259/)
+https://www.linkedin.com/in/prabhakar-kumar-shahi-b84851259/
 
 ---
 

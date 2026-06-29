@@ -32,19 +32,19 @@ https://github.com/Prabhakar620126/movie-recommendation-system
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](screenshots/Home_Page.png)
 
 ---
 
 ## Recommendation Result
 
-![Recommendation](screenshots/recommendation.png)
+![Recommendation](screenshots/result.png)
 
 ---
 
 ## Render Deployment
 
-![Deployment](screenshots/render.png)
+![Deployment](screenshots/deployment.png)
 
 ---
 
